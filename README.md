@@ -18,24 +18,43 @@ The dataset should be divided into test and train and you would have to use the 
 Feature Description
 
 Gender - talks of the gender - Male or female
+
 Business - if the person has a business or no
+
 Age - age of the person
+
 Salary - CTC of the employee
+
 Dependants - number of people dependant on the person
+
 Months - duration of the person employed with the company
+
 Calls - if the person has authority to make calls or not
+
 Type - salary settlement type
+
 Billing - Subscribed to billing plans or no
+
 Unit sales - unit sale made by the person
+
 Total sales - total sales made by the person
+
 Rating - If he has been given a rating by a superior or no
+
 Bonus - amount received by a person as bonus for sales
+
 Base pay - Base pay of the employee
+
 Unit price - The Unit price of a sale
+
 Volume - volume allotted to a person
+
 Opening balance - The opening balance of an employee
+
 Low - lowest balance allotted to a person.
+
 Closing Balance- The closing balance of an employee
+
 Education- Educational background of an employee
 
 
